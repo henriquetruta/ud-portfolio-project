@@ -133,13 +133,13 @@ main {
 }
 
 .snippet__title {
-  font-weight: 1000;
+  font-weight: 800;
 }
 
 .snippet__title a {
   text-decoration: none;
   color: #666;
-  padding: 1.5em inherit;
+  padding: 1.5em;
 }
 
 .snippet__title a:hover,

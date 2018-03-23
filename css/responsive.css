@@ -8,7 +8,6 @@
     margin: 0.4em 0.25em;
   }
   .header__subtitle {
-    font-weight: 150;
     font-size: 1em;
     margin: 0em 0.5em;
   }
@@ -63,7 +62,7 @@
   }
   .header__subtitle {
     order: 2;
-    font-weight: 150;
+    font-weight: 300;
     font-size: 1.5em;
     margin: 0em 0.5em;
   }
